@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deafhorse
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web-deb @theodinproject
+- 🌱 I’m currently learning WebDev @theodinproject
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
